@@ -56,7 +56,9 @@ Replace the placeholder values with your actual credentials.
 5. Run the Bot
 
 python bot.py
-Commands
+
+
+#Commands
 ^addreddit <subreddit>
 Adds a subreddit to the monitored list.
 
