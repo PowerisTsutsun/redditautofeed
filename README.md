@@ -22,37 +22,31 @@ This Discord bot fetches posts from Reddit and automatically posts them to speci
 
 ### 1. Clone the Repository
 
-```bash
+```
 git clone <repository-url>
 cd <repository-directory>
 
 
 
 2. Create a Virtual Environment (Optional)
-bash
-Copy
+
 python -m venv venv
 Activate the environment:
 
 Linux/Mac:
 
-bash
-Copy
+
 source venv/bin/activate
 Windows:
 
-bash
-Copy
+
 venv\Scripts\activate
 3. Install Dependencies
-bash
-Copy
+
 pip install -r requirements.txt
 4. Create a .env File
 In the project root, create a file named .env with the following content:
 
-ini
-Copy
 DISCORD_TOKEN=your-discord-bot-token
 REDDIT_CLIENT_ID=your-reddit-client-id
 REDDIT_CLIENT_SECRET=your-reddit-client-secret
@@ -60,8 +54,7 @@ REDDIT_USER_AGENT=discord:yourbotname:v1.0.0 (by /u/yourusername)
 Replace the placeholder values with your actual credentials.
 
 5. Run the Bot
-bash
-Copy
+
 python bot.py
 Commands
 ^addreddit <subreddit>
