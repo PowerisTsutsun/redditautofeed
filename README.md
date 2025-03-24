@@ -77,13 +77,22 @@ Toggles auto-feed for the specified subreddit on or off.
 ^tochannel #channel <subreddit>
 Sets the channel for auto-feed posts for the specified subreddit.
 
-License
+## 📄 License
 This project is licensed under the MIT License.
-
-Contributing
-Feel free to fork the repository and submit pull requests if you have any improvements or new features.
-
 
 ---
 
-You can now include these files in your repository on GitHub. Enjoy sharing your Discord Reddit Bot!
+## 🤝 Contributions
+Pull requests and suggestions are welcome! Feel free to fork the repo and contribute.
+
+---
+
+## 💻 Author
+Developed by poweristsutsun (BeruVirusGuard Creator)
+
+For questions or issues, please open an issue or contact me directly.
+
+---
+
+## 🔔 Disclaimer
+This software is for educational purposes only. Always use responsibly.
